@@ -20,10 +20,11 @@ Cada plataforma nueva (Hack The Box, OverTheWire, CTFs, etc.) se agregará como 
 
 ### TryHackMe
 
-| Room | Tema |
-| --- | --- |
-| [Billing](https://tryhackme.com/room/billing) | Explotación de un sistema de facturación VoIP y escalada de privilegios |
-| [Room 404](https://tryhackme.com/room/hh-room404-804573bf) | Exposición de un repositorio Git en un servidor web |
+| Room                                                       | Tema                                                                    |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Billing](https://tryhackme.com/room/billing)              | Explotación de un sistema de facturación VoIP y escalada de privilegios |
+| [Room 404](https://tryhackme.com/room/hh-room404-804573bf) | Exposición de un repositorio Git en un servidor web                     |
+| [Light](https://tryhackme.com/room/lightroom "Light")      | Inyección SQL en bases de datos SQLite                                  |
 
 ## 📝 Formato de los writeups
 
